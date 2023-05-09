@@ -1,6 +1,6 @@
 # Table Of Contents
 
-This is the story of my life.
+This is the story of my wonderful life.
 
 ---
 
