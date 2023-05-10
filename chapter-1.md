@@ -1,4 +1,4 @@
-# Chapter 1: Meh
+# Chapter 1: The slightly less awesome chapter
 
 ----
 

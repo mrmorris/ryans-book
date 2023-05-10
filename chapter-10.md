@@ -1,4 +1,4 @@
-# Chapter 10: Meh
+# Chapter 10: Also Awesome.
 
 ----
 
