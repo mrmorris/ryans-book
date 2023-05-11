@@ -1,7 +1,5 @@
-# Chapter 2: Awesome
+# Chapter 2
 
 ---
 
 A wonderful chapter
-
-Arbitrary edits.
